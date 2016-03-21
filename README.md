@@ -7,4 +7,8 @@ This is a little project I created to learn Scrapy while rewriting a nice downlo
 
 ## WARNING
 
-The scrapy code is not finished and not working yet
+The scrapy code needs a little bit of polishing but is working and will save all the images in $(PWD)/imagse/
+
+## SYNOPSIS
+
+'''scrapy crawl ootsspider'''

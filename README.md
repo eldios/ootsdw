@@ -11,4 +11,4 @@ The scrapy code needs a little bit of polishing but is working and will save all
 
 ## SYNOPSIS
 
-'''scrapy crawl ootsspider'''
+    scrapy crawl ootsspider
